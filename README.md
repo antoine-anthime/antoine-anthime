@@ -3,8 +3,6 @@
 <!--
 **antoine-anthime/antoine-anthime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/aanthime"><img src="https://api.daily.dev/devcards/e7221b3ebc404059a52ad88666758216.png?r=hip" width="400" alt="ANTHIME Antoine's Dev Card"/></a>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/aanthime"><img src="https://api.daily.dev/devcards/e7221b3ebc404059a52ad88666758216.png?r=hip" width="400" alt="ANTHIME Antoine's Dev Card"/></a>
