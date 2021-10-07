@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/antoine-anthime/antoine-anthime/blob/master/devcard.svg" width="400" alt="Antoine ANTHIME's devcard"/></a>
+<a href="https://app.daily.dev/aanthime"><img src="https://github.com/antoine-anthime/antoine-anthime/blob/main/devcard.svg" width="400" alt="Antoine ANTHIME's devcard"/></a>
 
